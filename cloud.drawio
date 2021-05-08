@@ -1,4 +1,4 @@
-<mxfile modified="2021-05-08T06:52:59.904Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="gDnz88dSs0FNk2vHYFKK" version="14.4.6" type="github">
+<mxfile modified="2021-05-08T06:53:13.181Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="oFp00TIf8m69BTyQ6XG8" version="14.4.6" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="734" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -143,7 +143,7 @@
           <mxGeometry x="466" y="530" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="1yn95lNJv_hw5B5bu8lK-14" value="&lt;font color=&quot;#000000&quot;&gt;阿里云redis&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.redis;fillColor=#2E73B8;gradientColor=none;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="804" y="707" width="60" height="63" as="geometry" />
+          <mxGeometry x="801" y="703.5" width="60" height="63" as="geometry" />
         </mxCell>
         <mxCell id="1yn95lNJv_hw5B5bu8lK-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#212121;fontStyle=1;strokeWidth=3;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ln0wYWGK2Pg7mDHhLt9o-35" target="1yn95lNJv_hw5B5bu8lK-14">
           <mxGeometry relative="1" as="geometry">
