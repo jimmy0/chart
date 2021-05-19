@@ -1,4 +1,4 @@
-<mxfile modified="2021-05-19T03:01:59.932Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="4CsYQB5pxo6sg1pevzEp" version="14.6.13" type="github">
+<mxfile modified="2021-05-19T03:30:50.253Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="KtoWwmWNkTWOQ8X0Mir-" version="14.6.13" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1382" dy="760" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -9,9 +9,6 @@
         </mxCell>
         <mxCell id="Ln0wYWGK2Pg7mDHhLt9o-11" value="阿里云/腾讯云/亚马逊云" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;verticalAlign=top;align=left;spacingLeft=30;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="287.5" y="634" width="807.5" height="154" as="geometry" />
-        </mxCell>
-        <mxCell id="SCVMTBWpLvtzJIhz15lM-1" value="" style="line;strokeWidth=2;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="52.5" y="139.5" width="1060" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Ln0wYWGK2Pg7mDHhLt9o-27" style="edgeStyle=none;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontStyle=1" parent="1" source="Ln0wYWGK2Pg7mDHhLt9o-11" target="Ln0wYWGK2Pg7mDHhLt9o-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -95,10 +92,34 @@
           <mxGeometry x="431.5" y="388" width="116" height="44" as="geometry" />
         </mxCell>
         <mxCell id="gMzUMs-5NFaY0qNwN4Kw-34" value="开放层" style="dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;fontSize=21;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="280" y="121" width="814" height="157.5" as="geometry" />
+          <mxGeometry x="280" y="64" width="814" height="214.5" as="geometry" />
         </mxCell>
         <mxCell id="gMzUMs-5NFaY0qNwN4Kw-29" value="开放接口服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="705.5" y="187" width="116" height="44" as="geometry" />
+          <mxGeometry x="567.5" y="388" width="116" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="gMzUMs-5NFaY0qNwN4Kw-44" value="产品开发" style="dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="303" y="111.25" width="206" height="153.75" as="geometry" />
+        </mxCell>
+        <mxCell id="gMzUMs-5NFaY0qNwN4Kw-35" value="功能定义" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="324" y="155" width="76" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="gMzUMs-5NFaY0qNwN4Kw-39" value="设备面板" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="417.5" y="155" width="76" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="gMzUMs-5NFaY0qNwN4Kw-40" value="产品配置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="324" y="207" width="76" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="gMzUMs-5NFaY0qNwN4Kw-45" value="云开发" style="dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="781" y="104" width="206" height="153.75" as="geometry" />
+        </mxCell>
+        <mxCell id="gMzUMs-5NFaY0qNwN4Kw-46" value="APP开发" style="dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="518.55" y="111.25" width="206" height="153.75" as="geometry" />
+        </mxCell>
+        <mxCell id="gMzUMs-5NFaY0qNwN4Kw-42" value="SDK" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="536" y="171" width="76" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="gMzUMs-5NFaY0qNwN4Kw-43" value="UI业务包" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="631.5" y="171" width="76" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
