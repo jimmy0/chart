@@ -1,4 +1,4 @@
-<mxfile modified="2021-05-19T07:02:20.400Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="y7CMLKPou9ouKxrk8V4F" version="14.6.13" type="github">
+<mxfile modified="2021-05-19T07:08:29.693Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="QXbgEa4ZZvrfCDBl53mc" version="14.6.13" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1626" dy="2588" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -125,10 +125,10 @@
           <mxGeometry x="631" y="192.12" width="76" height="44" as="geometry" />
         </mxCell>
         <mxCell id="gMzUMs-5NFaY0qNwN4Kw-47" value="开发者账号管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontStyle=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1007" y="154" width="99" height="63.75" as="geometry" />
+          <mxGeometry x="1007" y="154" width="99" height="46" as="geometry" />
         </mxCell>
         <mxCell id="gMzUMs-5NFaY0qNwN4Kw-48" value="计费系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontStyle=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1007" y="232" width="96" height="62" as="geometry" />
+          <mxGeometry x="1007" y="258" width="98" height="44" as="geometry" />
         </mxCell>
         <mxCell id="gMzUMs-5NFaY0qNwN4Kw-49" value="注册中心" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontStyle=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="861.5" y="530" width="92" height="60" as="geometry" />
@@ -297,6 +297,9 @@
         </mxCell>
         <mxCell id="pWaMpRXz0NsTzL8wll6D-2" value="智慧校园" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontStyle=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="897" y="-13" width="98" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pWaMpRXz0NsTzL8wll6D-3" value="开发者文档" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontStyle=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1007" y="206" width="99" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
