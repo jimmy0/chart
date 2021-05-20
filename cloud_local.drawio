@@ -1,4 +1,4 @@
-<mxfile modified="2021-05-20T09:48:54.055Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="euZlmZrZyQgU5a7PGthO" version="14.6.13" type="github">
+<mxfile modified="2021-05-20T09:50:56.684Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="-9GzT8MsniB1iUmsH15D" version="14.6.13" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1382" dy="760" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -140,6 +140,18 @@
         </mxCell>
         <mxCell id="1yn95lNJv_hw5B5bu8lK-18" value="自建mongodb" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.mongodb;gradientColor=#DFDEDE;fontColor=#33001A;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="688" y="680.75" width="64.5" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="nnkV5mhXrsGztq5PjRuH-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nnkV5mhXrsGztq5PjRuH-1" target="nnkV5mhXrsGztq5PjRuH-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nnkV5mhXrsGztq5PjRuH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nnkV5mhXrsGztq5PjRuH-1" target="Ln0wYWGK2Pg7mDHhLt9o-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nnkV5mhXrsGztq5PjRuH-1" value="jenkins" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D86613;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=1;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.instance2;" vertex="1" parent="1">
+          <mxGeometry x="453" y="685.75" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="nnkV5mhXrsGztq5PjRuH-2" value="gitlab" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D86613;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=1;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.instance2;" vertex="1" parent="1">
+          <mxGeometry x="356" y="685.75" width="48" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
