@@ -1,6 +1,6 @@
-<mxfile modified="2021-05-20T01:44:07.163Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="1yNoQLlGK0fnOvThGs0A" version="14.6.13" type="github">
+<mxfile modified="2021-05-20T08:47:04.740Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="VPKUEh21KSxmz45NCn8J" version="14.6.13" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="1626" dy="1721" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1382" dy="1587" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -292,7 +292,7 @@
         <mxCell id="gMzUMs-5NFaY0qNwN4Kw-161" value="..." style="text;html=1;strokeColor=#B20000;fillColor=#e51400;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1016" y="14" width="58" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pWaMpRXz0NsTzL8wll6D-1" value="商业照明" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontStyle=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="pWaMpRXz0NsTzL8wll6D-1" value="智慧酒店" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontStyle=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="785" y="-13" width="98" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pWaMpRXz0NsTzL8wll6D-2" value="智慧校园" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontStyle=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
@@ -301,13 +301,13 @@
         <mxCell id="pWaMpRXz0NsTzL8wll6D-3" value="开发者文档" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontStyle=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1007" y="206" width="99" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="o3qAvGxE_UhquxqolywF-3" value="安全防护" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/icons-for-a-site-1/64/advantage_protection-128.png;fontColor=#33001A;fontStyle=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="o3qAvGxE_UhquxqolywF-3" value="安全防护" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/icons-for-a-site-1/64/advantage_protection-128.png;fontColor=#33001A;fontStyle=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="953" y="693.42" width="58.95" height="58.95" as="geometry" />
         </mxCell>
-        <mxCell id="o3qAvGxE_UhquxqolywF-4" value="持续集成部署" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontStyle=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="o3qAvGxE_UhquxqolywF-4" value="持续集成部署" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontStyle=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="917" y="530" width="87" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o3qAvGxE_UhquxqolywF-5" value="统一监控" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontStyle=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="o3qAvGxE_UhquxqolywF-5" value="统一监控" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontStyle=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1014" y="530" width="66" height="60" as="geometry" />
         </mxCell>
       </root>
