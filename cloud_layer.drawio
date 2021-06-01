@@ -1,4 +1,4 @@
-<mxfile modified="2021-06-01T08:18:27.542Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="hAaIpIzM39NBfepfPVIn" version="14.7.2" type="github">
+<mxfile modified="2021-06-01T08:19:08.827Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="0_9CBIEjE7hoxWQb6i_D" version="14.7.2" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1382" dy="1587" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -310,7 +310,7 @@
         <mxCell id="o3qAvGxE_UhquxqolywF-5" value="统一监控" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontStyle=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1014" y="530" width="66" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EYrQF7BOCfklkiRc-jko-1" value="简直品类硬件API" style="dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;fontSize=21;shadow=1;" vertex="1" parent="1">
+        <mxCell id="EYrQF7BOCfklkiRc-jko-1" value="垂直品类硬件API" style="dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;fontSize=21;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="-405.5" width="178" height="114.5" as="geometry" />
         </mxCell>
         <mxCell id="EYrQF7BOCfklkiRc-jko-2" value="睡眠带开放能力" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontStyle=1" vertex="1" parent="1">
