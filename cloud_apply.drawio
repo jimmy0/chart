@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-04T01:40:48.899Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="9OqKrZsH5uqqQNRPRCrh" version="14.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-04T01:41:24.373Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="z1p4TAbV55Rn5N-G1QIM" version="14.7.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1382" dy="1929" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,7 +18,7 @@
             <mxRectangle x="337" y="591" width="63" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zOaPCI-I9Z9_q9aIMX81-8" value="智能家居&lt;br style=&quot;font-size: 16px;&quot;&gt;（金牌智家）" style="ellipse;whiteSpace=wrap;html=1;shadow=1;sketch=0;fontSize=16;fontStyle=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="zOaPCI-I9Z9_q9aIMX81-9" vertex="1">
+        <mxCell id="zOaPCI-I9Z9_q9aIMX81-8" value="智能家居" style="ellipse;whiteSpace=wrap;html=1;shadow=1;sketch=0;fontSize=16;fontStyle=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="zOaPCI-I9Z9_q9aIMX81-9" vertex="1">
           <mxGeometry x="125" y="50" width="105" height="65" as="geometry" />
         </mxCell>
         <mxCell id="zOaPCI-I9Z9_q9aIMX81-11" value="智慧办公" style="ellipse;whiteSpace=wrap;html=1;shadow=1;sketch=0;fontSize=16;fontStyle=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="zOaPCI-I9Z9_q9aIMX81-9" vertex="1">
