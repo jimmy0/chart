@@ -1,4 +1,4 @@
-<mxfile modified="2021-06-04T02:25:14.377Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="PeAoaw2yNA0KOz8DKRu5" version="14.7.4" type="github">
+<mxfile modified="2021-06-04T02:26:34.521Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="BSBmx6Kmn3a_PJJVgV4J" version="14.7.4" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1382" dy="1587" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1yn95lNJv_hw5B5bu8lK-14" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 18px;&quot;&gt;云缓存&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.redis;fillColor=#2E73B8;gradientColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="778" y="696.62" width="53.1" height="55.75" as="geometry" />
+          <mxGeometry x="673.5" y="691.1600000000001" width="53.1" height="55.75" as="geometry" />
         </mxCell>
         <mxCell id="gMzUMs-5NFaY0qNwN4Kw-1" value="IaaS层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="119" y="692.5" width="102" height="20" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="91.5" y="85" width="1036.5" height="530" as="geometry" />
         </mxCell>
         <mxCell id="gMzUMs-5NFaY0qNwN4Kw-11" value="云数据库" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.mongodb;gradientColor=#DFDEDE;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="676" y="697.24" width="55" height="55.13" as="geometry" />
+          <mxGeometry x="581.62" y="694.87" width="55" height="55.13" as="geometry" />
         </mxCell>
         <mxCell id="gMzUMs-5NFaY0qNwN4Kw-12" value="VPC" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vpc;fillColor=#F58534;gradientColor=none;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="483.99999999999994" y="688.87" width="52.91" height="63.5" as="geometry" />
@@ -37,11 +37,8 @@
         <mxCell id="gMzUMs-5NFaY0qNwN4Kw-13" value="负载均衡" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.classic_load_balancer;fillColor=#F58536;gradientColor=none;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="309" y="692.5" width="57.38" height="59.87" as="geometry" />
         </mxCell>
-        <mxCell id="gMzUMs-5NFaY0qNwN4Kw-14" value="基础网络" style="image;html=1;image=img/lib/clip_art/computers/Network_2_128x128.png;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="573" y="688.75" width="63.62" height="63.62" as="geometry" />
-        </mxCell>
         <mxCell id="gMzUMs-5NFaY0qNwN4Kw-15" value="对象存储" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/small-n-flat/24/floppy-128.png;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="864" y="687.24" width="65.13" height="65.13" as="geometry" />
+          <mxGeometry x="758" y="684.87" width="65.13" height="65.13" as="geometry" />
         </mxCell>
         <mxCell id="gMzUMs-5NFaY0qNwN4Kw-18" value="云主机" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/mainframe_host.svg;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="400" y="687" width="47.07" height="65.37" as="geometry" />
@@ -299,7 +296,7 @@
           <mxGeometry x="1007" y="206" width="99" height="46" as="geometry" />
         </mxCell>
         <mxCell id="o3qAvGxE_UhquxqolywF-3" value="安全防护" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/icons-for-a-site-1/64/advantage_protection-128.png;fontColor=#33001A;fontStyle=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="953" y="693.42" width="58.95" height="58.95" as="geometry" />
+          <mxGeometry x="866" y="687.96" width="58.95" height="58.95" as="geometry" />
         </mxCell>
         <mxCell id="o3qAvGxE_UhquxqolywF-4" value="持续集成&lt;br&gt;部署" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="844" y="530" width="94.13" height="60" as="geometry" />
