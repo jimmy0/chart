@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T08:42:58.913Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="YahD4e-g6df0YvU716Ko" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-12T08:43:44.016Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="3g-pqvYz2pPbi9ZLTrzg" version="14.8.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2582" dy="1972" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -156,7 +156,7 @@
           <mxGeometry x="-99.08" y="146" width="86.08" height="83.5" as="geometry" />
         </mxCell>
         <mxCell id="2xW1wXNc3-X3i3NU_5ai-6" value="鲲鹭云" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;glass=0;sketch=0;fontSize=37;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-405" y="-1184" width="346" height="287" as="geometry" />
+          <mxGeometry x="-405" y="-1184" width="346" height="251" as="geometry" />
         </mxCell>
         <mxCell id="ETfPz7Mz2g56ygI2f6DF-25" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=0.31;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;sketch=0;" edge="1" parent="1" source="2xW1wXNc3-X3i3NU_5ai-11" target="2xW1wXNc3-X3i3NU_5ai-6">
           <mxGeometry relative="1" as="geometry">
@@ -165,14 +165,14 @@
         </mxCell>
         <mxCell id="ETfPz7Mz2g56ygI2f6DF-27" value="验证令牌" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=25;fontStyle=1" vertex="1" connectable="0" parent="ETfPz7Mz2g56ygI2f6DF-25">
           <mxGeometry x="0.1261" relative="1" as="geometry">
-            <mxPoint x="2" y="17" as="offset" />
+            <mxPoint x="4" y="40" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2xW1wXNc3-X3i3NU_5ai-11" value="自建SAAS" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;glass=0;sketch=0;fontSize=27;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-307" y="-802" width="276" height="190" as="geometry" />
         </mxCell>
         <mxCell id="2xW1wXNc3-X3i3NU_5ai-14" value="智小金APP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontSize=26;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-644" y="-570" width="138" height="20" as="geometry" />
+          <mxGeometry x="-719" y="-568" width="138" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ETfPz7Mz2g56ygI2f6DF-1" style="edgeStyle=none;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.88;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;shadow=1;fontSize=19;strokeWidth=3;exitX=0.96;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2xW1wXNc3-X3i3NU_5ai-6" target="2xW1wXNc3-X3i3NU_5ai-11">
           <mxGeometry relative="1" as="geometry">
@@ -186,10 +186,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2xW1wXNc3-X3i3NU_5ai-4" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;glass=0;sketch=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="-677" y="-877" width="203" height="277" as="geometry" />
+          <mxGeometry x="-752" y="-875" width="203" height="277" as="geometry" />
         </mxCell>
         <mxCell id="ETfPz7Mz2g56ygI2f6DF-11" value="其他功能" style="swimlane;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;swimlaneFillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-665" y="-695" width="165" height="83" as="geometry" />
+          <mxGeometry x="-740" y="-693" width="165" height="83" as="geometry" />
         </mxCell>
         <mxCell id="ETfPz7Mz2g56ygI2f6DF-12" value="查询菜谱" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;shadow=1;" vertex="1" parent="ETfPz7Mz2g56ygI2f6DF-11">
           <mxGeometry x="6" y="32" width="71" height="30" as="geometry" />
@@ -198,7 +198,7 @@
           <mxGeometry x="83" y="32" width="71" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ETfPz7Mz2g56ygI2f6DF-5" value="鲲鹭云SDK" style="swimlane;fontSize=16;strokeColor=#d79b00;swimlaneFillColor=#ffffff;fillColor=#ffe6cc;" vertex="1" parent="1">
-          <mxGeometry x="-665" y="-852" width="174" height="150" as="geometry">
+          <mxGeometry x="-740" y="-850" width="174" height="150" as="geometry">
             <mxRectangle x="-665" y="-852" width="109" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -242,7 +242,7 @@
         </mxCell>
         <mxCell id="ETfPz7Mz2g56ygI2f6DF-21" value="控制设备" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=25;fontStyle=1" vertex="1" connectable="0" parent="ETfPz7Mz2g56ygI2f6DF-20">
           <mxGeometry x="-0.2179" y="1" relative="1" as="geometry">
-            <mxPoint x="2" y="-17" as="offset" />
+            <mxPoint x="1" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ETfPz7Mz2g56ygI2f6DF-29" style="edgeStyle=none;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;fontSize=19;strokeWidth=3;entryX=0.31;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.4;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fwL3SmA65cHjNFYOdots-74" target="fwL3SmA65cHjNFYOdots-66">
@@ -275,7 +275,7 @@
         </mxCell>
         <mxCell id="ETfPz7Mz2g56ygI2f6DF-34" value="查询数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=25;fontStyle=1" vertex="1" connectable="0" parent="ETfPz7Mz2g56ygI2f6DF-33">
           <mxGeometry x="-0.2179" y="1" relative="1" as="geometry">
-            <mxPoint x="10" y="22" as="offset" />
+            <mxPoint x="12" y="36" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
