@@ -1,4 +1,4 @@
-<mxfile modified="2021-07-20T08:30:44.360Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="K9p9X4j7_pEOyZQ9Ngje" version="14.9.0" type="github">
+<mxfile modified="2021-07-20T08:32:49.148Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="nFhL-8PsSAWyy4s_nMYu" version="14.9.0" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="2158" dy="1775" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -361,7 +361,7 @@
         <mxCell id="poLeVsul0dEn69zZ20Wr-12" value="用户反馈" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="867" y="241.82" width="46" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="Zoq11wfGqskqaNb9JvNO-1" value="厂区智能化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;shadow=1;" vertex="1" parent="1">
+        <mxCell id="Zoq11wfGqskqaNb9JvNO-1" value="智慧工厂" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="764" y="-24" width="133" height="60" as="geometry" />
         </mxCell>
       </root>
