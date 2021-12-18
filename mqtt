@@ -1,4 +1,4 @@
-<mxfile modified="2021-12-18T08:01:48.940Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="QffdMso4VhK1-LPwHEeM" version="16.0.0" type="github">
+<mxfile modified="2021-12-18T08:03:13.044Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="iPWpZ2pErJpLoVAQ808A" version="16.0.0" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1382" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -151,16 +151,16 @@
         <mxCell id="bpMtHVRTQuqQIrfE-0Ym-42" value="设备" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.lightbulb;fontSize=20;fontColor=#330000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="40" y="205" width="80" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="bpMtHVRTQuqQIrfE-0Ym-43" value="acl&lt;br&gt;发布data_from_client_device/%c&lt;br&gt;订阅data_from_server/%c" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;perimeterSpacing=1;shadow=0;glass=0;" vertex="1" parent="1">
+        <mxCell id="bpMtHVRTQuqQIrfE-0Ym-43" value="acl&lt;br&gt;发布data_from_client_device/%c&lt;br&gt;订阅data_from_server/%c" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;perimeterSpacing=1;shadow=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="115" width="312" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="bpMtHVRTQuqQIrfE-0Ym-45" value="acl&lt;br&gt;发布data_from_user_app/%u&lt;br&gt;订阅data_from_server/%u" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="bpMtHVRTQuqQIrfE-0Ym-45" value="acl&lt;br&gt;发布data_from_user_app/%u&lt;br&gt;订阅data_from_server/%u" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="31" y="436" width="280" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="bpMtHVRTQuqQIrfE-0Ym-46" value="acl&lt;br&gt;订阅data_from_client_device/#&lt;br&gt;订阅data_from_user_app/#" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="bpMtHVRTQuqQIrfE-0Ym-46" value="acl&lt;br&gt;订阅data_from_client_device/#&lt;br&gt;订阅data_from_user_app/#" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="854" y="131" width="303" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="bpMtHVRTQuqQIrfE-0Ym-47" value="acl&lt;br&gt;发布data_from_server/#&lt;br&gt;发布data_from_server/#&lt;br&gt;订阅[&quot;$SYS/#&quot;]" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="bpMtHVRTQuqQIrfE-0Ym-47" value="acl&lt;br&gt;发布data_from_server/#&lt;br&gt;订阅[&quot;$SYS/#&quot;]" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="134" y="606" width="303" height="100" as="geometry" />
         </mxCell>
       </root>
