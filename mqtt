@@ -1,4 +1,4 @@
-<mxfile modified="2021-12-23T06:22:31.983Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="MDlLDlP5pThr51qRymg0" version="16.0.0" type="github">
+<mxfile modified="2021-12-23T06:23:05.134Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="olkjPEVF6PCSwK-gULpu" version="16.0.0" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1382" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -177,8 +177,8 @@
         <mxCell id="at8fN592jNaku5NnRhP3-1" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="553" y="380" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="at8fN592jNaku5NnRhP3-2" value="接收网关、app消息，&lt;br style=&quot;font-size: 17px&quot;&gt;网关、app上下线消息&lt;br style=&quot;font-size: 17px&quot;&gt;发送到Rabbitmq" style="text;html=1;strokeColor=#6c8ebf;fillColor=#FF9933;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="966.5" y="274" width="175.5" height="82" as="geometry" />
+        <mxCell id="at8fN592jNaku5NnRhP3-2" value="接收网关、app消息，&lt;br style=&quot;font-size: 17px&quot;&gt;网关、app上下线消息" style="text;html=1;strokeColor=#6c8ebf;fillColor=#FF9933;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="966.75" y="290" width="175.5" height="67" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
