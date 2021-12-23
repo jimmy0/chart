@@ -1,4 +1,4 @@
-<mxfile modified="2021-12-23T06:15:33.058Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="eFHiATQwpgcreU_v6BNk" version="16.0.0" type="github">
+<mxfile modified="2021-12-23T06:22:31.983Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="MDlLDlP5pThr51qRymg0" version="16.0.0" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1382" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -74,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bpMtHVRTQuqQIrfE-0Ym-9" value="mqtt接收机" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];gradientDirection=north;outlineConnect=0;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=17;fontStyle=1;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.general;rounded=0;shadow=1;glass=1;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="959" y="253" width="182" height="182" as="geometry" />
+          <mxGeometry x="959" y="253" width="191" height="191" as="geometry" />
         </mxCell>
         <mxCell id="bpMtHVRTQuqQIrfE-0Ym-16" value="推送QUEUE_MQTT" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=17;fontStyle=1;strokeWidth=3;shadow=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#3333FF;fontColor=#3333FF;" parent="1" source="Nti4WjDRyjgu_Wvz6jyu-3" target="Nti4WjDRyjgu_Wvz6jyu-13" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -177,8 +177,8 @@
         <mxCell id="at8fN592jNaku5NnRhP3-1" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="553" y="380" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="at8fN592jNaku5NnRhP3-2" value="接收网关、app消息，&lt;br style=&quot;font-size: 17px;&quot;&gt;网关、app上下线消息&lt;br style=&quot;font-size: 17px;&quot;&gt;发送到Rabbitmq" style="text;html=1;strokeColor=#6c8ebf;fillColor=#FF9933;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="966.5" y="274" width="167" height="82" as="geometry" />
+        <mxCell id="at8fN592jNaku5NnRhP3-2" value="接收网关、app消息，&lt;br style=&quot;font-size: 17px&quot;&gt;网关、app上下线消息&lt;br style=&quot;font-size: 17px&quot;&gt;发送到Rabbitmq" style="text;html=1;strokeColor=#6c8ebf;fillColor=#FF9933;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="966.5" y="274" width="175.5" height="82" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
