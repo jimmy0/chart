@@ -1,4 +1,4 @@
-<mxfile modified="2022-01-21T09:37:38.379Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="xGAODgpoireBzivJNEWf" version="16.3.0" type="github">
+<mxfile modified="2022-01-21T09:41:10.203Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="yRwE3tIq3jHwoyHRb54W" version="16.3.0" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1382" dy="-55" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -343,7 +343,7 @@
         <mxCell id="JT6iMDAl1yRdMiCu4ERH-155" value="&lt;h1 style=&quot;font-size: 19px&quot;&gt;0&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=19;labelBorderColor=none;labelBackgroundColor=none;fontStyle=0;shadow=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="571" y="6866" width="121.5" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="JT6iMDAl1yRdMiCu4ERH-156" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;dashed=1;fontSize=25;strokeColor=default;fillColor=default;gradientColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="JT6iMDAl1yRdMiCu4ERH-156" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;dashed=1;fontSize=25;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="743.5" y="6812" width="165.5" height="95" as="geometry" />
         </mxCell>
         <mxCell id="JT6iMDAl1yRdMiCu4ERH-157" value="&lt;h1 style=&quot;font-size: 19px&quot;&gt;可用性探测&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=19;labelBorderColor=none;labelBackgroundColor=none;fontStyle=0;shadow=1;glass=0;" vertex="1" parent="1">
@@ -361,11 +361,11 @@
         <mxCell id="JT6iMDAl1yRdMiCu4ERH-161" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;rounded=0;shadow=1;dashed=1;fontSize=15;strokeColor=default;fillColor=default;gradientColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="865" y="6878" width="36" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="JT6iMDAl1yRdMiCu4ERH-162" value="&lt;h1 style=&quot;font-size: 19px&quot;&gt;mongodb监控&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=19;labelBorderColor=none;labelBackgroundColor=none;fontStyle=0;shadow=1;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="208.58" y="7141" width="155.42" height="33" as="geometry" />
+        <mxCell id="JT6iMDAl1yRdMiCu4ERH-162" value="&lt;h1 style=&quot;font-size: 15px;&quot;&gt;mongodb监控&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=15;labelBorderColor=none;labelBackgroundColor=none;fontStyle=0;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="208.58" y="7169" width="155.42" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="JT6iMDAl1yRdMiCu4ERH-163" value="&lt;h1 style=&quot;font-size: 19px&quot;&gt;mongodb监控&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=19;labelBorderColor=none;labelBackgroundColor=none;fontStyle=0;shadow=1;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="207.58" y="7229" width="155.42" height="33" as="geometry" />
+        <mxCell id="JT6iMDAl1yRdMiCu4ERH-163" value="&lt;h1 style=&quot;font-size: 15px;&quot;&gt;redis监控&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=15;labelBorderColor=none;labelBackgroundColor=none;fontStyle=0;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="376.40000000000003" y="7174" width="155.42" height="33" as="geometry" />
         </mxCell>
         <mxCell id="JT6iMDAl1yRdMiCu4ERH-164" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#82b366;glass=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="182.75" y="7476" width="883" height="664" as="geometry" />
@@ -432,6 +432,15 @@
         </mxCell>
         <mxCell id="JT6iMDAl1yRdMiCu4ERH-204" value="&lt;h1 style=&quot;font-size: 15px&quot;&gt;广告点击统计&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=15;labelBorderColor=none;labelBackgroundColor=none;fontStyle=0;shadow=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="672" y="7774" width="134.89" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="JT6iMDAl1yRdMiCu4ERH-205" value="&lt;h1 style=&quot;font-size: 15px;&quot;&gt;kafka监控&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=15;labelBorderColor=none;labelBackgroundColor=none;fontStyle=0;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="508.65000000000003" y="7172" width="155.42" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="JT6iMDAl1yRdMiCu4ERH-206" value="&lt;h1 style=&quot;font-size: 15px;&quot;&gt;rabbitmq监控&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=15;labelBorderColor=none;labelBackgroundColor=none;fontStyle=0;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="634.07" y="7169" width="155.42" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="JT6iMDAl1yRdMiCu4ERH-207" value="&lt;h1 style=&quot;font-size: 19px&quot;&gt;中间件监控&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=19;labelBorderColor=none;labelBackgroundColor=none;fontStyle=0;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="209.9500000000001" y="7130" width="108.6" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
