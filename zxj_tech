@@ -1,4 +1,4 @@
-<mxfile modified="2022-01-24T06:32:30.844Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="7_VTjhKa9prr2QQ5uOy_" version="16.4.3" type="github">
+<mxfile modified="2022-01-24T06:37:16.572Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="O8Bd62v0YVi9pa-Fhmdc" version="16.4.3" type="github">
   <diagram id="tEm1or9J5rmpAkqg5-Qc" name="Page-1">
     <mxGraphModel dx="1382" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,13 +65,13 @@
           <mxGeometry x="131" y="350" width="96" height="237" as="geometry" />
         </mxCell>
         <mxCell id="A2ALVThhQ3q4sL_E1vpr-17" value="CONSUL&lt;br style=&quot;font-size: 13px;&quot;&gt;服务治理" style="rounded=1;whiteSpace=wrap;html=1;comic=1;shadow=1;glass=1;fontSize=13;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="589" y="425" width="79" height="52" as="geometry" />
+          <mxGeometry x="589" y="431" width="79" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="A2ALVThhQ3q4sL_E1vpr-19" value="FEIGN&lt;br style=&quot;font-size: 13px;&quot;&gt;负载均衡&lt;br style=&quot;font-size: 13px;&quot;&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;shadow=1;glass=1;fontSize=13;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="587.5" y="487" width="79" height="45" as="geometry" />
+        <mxCell id="A2ALVThhQ3q4sL_E1vpr-19" value="FEIGN&lt;br&gt;RIBBON&lt;br style=&quot;font-size: 13px&quot;&gt;负载均衡" style="rounded=1;whiteSpace=wrap;html=1;comic=1;shadow=1;glass=1;fontSize=13;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="587.5" y="495" width="79" height="52" as="geometry" />
         </mxCell>
         <mxCell id="hyMtcfNfDxj9DRvsbc5Z-5" value="CONFIG&lt;br style=&quot;font-size: 13px;&quot;&gt;配置中心&lt;br style=&quot;font-size: 13px;&quot;&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;shadow=1;glass=1;fontSize=13;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="589" y="367" width="82" height="50" as="geometry" />
+          <mxGeometry x="593" y="365.5" width="82" height="57" as="geometry" />
         </mxCell>
         <mxCell id="A2ALVThhQ3q4sL_E1vpr-45" value="SLEUTH&lt;br style=&quot;font-size: 13px;&quot;&gt;链路跟踪&lt;br style=&quot;font-size: 13px;&quot;&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;shadow=1;glass=1;fontSize=13;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="138" y="431" width="82" height="40" as="geometry" />
@@ -146,7 +146,7 @@
           <mxGeometry x="498" y="606" width="99" height="52" as="geometry" />
         </mxCell>
         <mxCell id="yhH2DUNo-yTEcBtsteYH-13" value="SENTINEL&lt;br style=&quot;font-size: 13px&quot;&gt;流量控制&lt;br&gt;熔断降级" style="rounded=1;whiteSpace=wrap;html=1;comic=1;shadow=1;glass=1;fontSize=13;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="141" y="370" width="79" height="45" as="geometry" />
+          <mxGeometry x="141" y="370" width="79" height="48" as="geometry" />
         </mxCell>
         <mxCell id="yhH2DUNo-yTEcBtsteYH-15" value="G&lt;br&gt;R&lt;br&gt;A&lt;br&gt;F&lt;br&gt;A&lt;br&gt;N&lt;br&gt;A &lt;br&gt;+ &lt;br&gt;P&lt;br&gt;R&lt;br&gt;O&lt;br&gt;M&lt;br&gt;E&lt;br&gt;T&lt;br&gt;H&lt;br&gt;E&lt;br&gt;U&lt;br&gt;S&lt;br style=&quot;font-size: 13px&quot;&gt;运&lt;br&gt;维&lt;br&gt;监&lt;br&gt;控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;glass=1;comic=1;fontSize=13;fontStyle=1;gradientColor=#b3b3b3;labelBackgroundColor=none;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="717" y="154" width="90" height="693" as="geometry" />
