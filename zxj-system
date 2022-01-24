@@ -1,4 +1,4 @@
-<mxfile modified="2022-01-21T05:53:33.201Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="UazrzZoxrG5MCckSn5vX" version="16.3.0" type="github">
+<mxfile modified="2022-01-24T09:10:27.511Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="2VTS_P0w7kSAn-8SKJ6b" version="16.4.5" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1382" dy="-55" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8,10 +8,10 @@
           <mxGeometry x="189" y="1051" width="885" height="557" as="geometry" />
         </mxCell>
         <mxCell id="StkEX8WNFYKrYod38pFv-2" value="智慧屏管理系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;labelBackgroundColor=none;labelBorderColor=none;shadow=1;glass=0;sketch=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
-          <mxGeometry x="371.96999999999997" y="1397" width="115.12" height="60" as="geometry" />
+          <mxGeometry x="373.53" y="1346" width="115.12" height="60" as="geometry" />
         </mxCell>
         <mxCell id="StkEX8WNFYKrYod38pFv-3" value="商城" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;labelBackgroundColor=none;labelBorderColor=none;shadow=1;glass=0;sketch=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
-          <mxGeometry x="784.97" y="1291" width="120" height="60" as="geometry" />
+          <mxGeometry x="371.09000000000003" y="1417" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="StkEX8WNFYKrYod38pFv-4" value="大数据分析平台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;labelBackgroundColor=none;labelBorderColor=none;shadow=1;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="358" y="1509" width="554" height="60" as="geometry" />
@@ -65,10 +65,13 @@
           <mxGeometry x="362" y="1162" width="543" height="67" as="geometry" />
         </mxCell>
         <mxCell id="StkEX8WNFYKrYod38pFv-29" value="营销售后系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;labelBackgroundColor=none;labelBorderColor=none;shadow=1;glass=0;sketch=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
-          <mxGeometry x="365.53" y="1295" width="128" height="60" as="geometry" />
+          <mxGeometry x="367.09" y="1274" width="128" height="60" as="geometry" />
         </mxCell>
         <mxCell id="StkEX8WNFYKrYod38pFv-33" value="支付系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;labelBackgroundColor=none;labelBorderColor=none;shadow=1;glass=0;sketch=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
-          <mxGeometry x="783" y="1384" width="120" height="60" as="geometry" />
+          <mxGeometry x="779" y="1274" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sXyrpDG3DY5AyWHwygcU-1" value="..." style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;labelBackgroundColor=none;labelBorderColor=none;shadow=1;glass=0;sketch=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="782" y="1357" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
