@@ -1,4 +1,4 @@
-<mxfile modified="2022-01-25T03:27:11.596Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="sAz0ukQcQ8n6zY9igmVQ" version="16.4.5" type="github">
+<mxfile modified="2022-01-25T03:27:21.299Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="GWX0NroeYzqJHGsZFvfF" version="16.4.5" type="github">
   <diagram id="cUE7uN3QZ6SMaKYQvlch" name="Page-1">
     <mxGraphModel dx="1382" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -406,7 +406,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GnQIdgZs58faXDCFv5t8-33" value="auth server 集群&lt;br style=&quot;font-size: 14px;&quot;&gt;授权中心&lt;br style=&quot;font-size: 14px;&quot;&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=1;comic=1;shadow=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="288" y="1528.75" width="120" height="60" as="geometry" />
+          <mxGeometry x="287" y="1528.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GnQIdgZs58faXDCFv5t8-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=14;fontStyle=1;strokeWidth=2;shadow=1;" edge="1" source="GnQIdgZs58faXDCFv5t8-36" target="GnQIdgZs58faXDCFv5t8-60" parent="1">
           <mxGeometry relative="1" as="geometry" />
