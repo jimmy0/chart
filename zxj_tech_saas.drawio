@@ -1,4 +1,4 @@
-<mxfile modified="2022-02-18T01:16:11.658Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="9OowpXY4repw3WZ9bByo" version="16.5.6" type="github">
+<mxfile modified="2022-02-18T01:34:07.657Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="EtzSQZpZyDtkKhFdFDfW" version="16.5.6" type="github">
   <diagram id="tEm1or9J5rmpAkqg5-Qc" name="Page-1">
     <mxGraphModel dx="1382" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
           <mxGeometry x="30" y="326" width="674" height="185" as="geometry" />
         </mxCell>
         <mxCell id="A2ALVThhQ3q4sL_E1vpr-16" value="SPRINGGATEWAY&lt;br style=&quot;font-size: 13px;&quot;&gt;服务网关" style="rounded=1;whiteSpace=wrap;html=1;comic=1;shadow=1;glass=1;fontSize=13;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="232" y="354" width="320" height="60" as="geometry" />
+          <mxGeometry x="818" y="357" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A2ALVThhQ3q4sL_E1vpr-20" value="服务层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="50" y="346" width="57" height="20" as="geometry" />
@@ -41,28 +41,22 @@
           <mxGeometry x="26" y="525" width="676" height="80" as="geometry" />
         </mxCell>
         <mxCell id="A2ALVThhQ3q4sL_E1vpr-32" value="MONGODB" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;comic=1;glass=1;fontSize=13;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="242" y="532" width="120" height="60" as="geometry" />
+          <mxGeometry x="178" y="532" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A2ALVThhQ3q4sL_E1vpr-35" value="数据层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="46" y="555" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="A2ALVThhQ3q4sL_E1vpr-17" value="CONSUL&lt;br style=&quot;font-size: 13px;&quot;&gt;服务治理" style="rounded=1;whiteSpace=wrap;html=1;comic=1;shadow=1;glass=1;fontSize=13;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="460" y="430" width="81" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="hyMtcfNfDxj9DRvsbc5Z-5" value="CONFIG&lt;br style=&quot;font-size: 13px;&quot;&gt;配置中心&lt;br style=&quot;font-size: 13px;&quot;&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;shadow=1;glass=1;fontSize=13;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="354" y="425" width="82" height="57" as="geometry" />
         </mxCell>
         <mxCell id="hyMtcfNfDxj9DRvsbc5Z-8" value="NGINX&lt;br style=&quot;font-size: 13px;&quot;&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;shadow=1;glass=1;fontSize=13;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="136" y="241" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A2ALVThhQ3q4sL_E1vpr-22" value="SAAS服务" style="rounded=1;whiteSpace=wrap;html=1;comic=1;shadow=1;glass=1;fontSize=13;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="235" y="425" width="94" height="57" as="geometry" />
+          <mxGeometry x="225" y="385" width="94" height="57" as="geometry" />
         </mxCell>
         <mxCell id="yhH2DUNo-yTEcBtsteYH-17" value="开发架构&#xa;springcloud&#xa;运维架构&#xa;docker swarm&#xa;大数据架构&#xa;hadoop+hbase+hive+spark&#xa;监控体系&#xa;grafana+prometheus" style="text;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="927" y="575" width="177" height="142" as="geometry" />
         </mxCell>
         <mxCell id="RZ8fS1RHTA0r417xA3Hv-1" value="REDIS" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;comic=1;glass=1;fontSize=13;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="401" y="532" width="120" height="60" as="geometry" />
+          <mxGeometry x="334" y="535" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
