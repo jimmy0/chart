@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T09:58:45.645Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" version="17.1.3" etag="1wjTR278kxsuGPmTKT2x" type="github"><diagram id="SGNOR8kBZtFjotVO8Iry">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-29T10:10:30.974Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="YNm_35TQxErFwIQizS_w" version="17.1.3" type="github">
+  <diagram id="SGNOR8kBZtFjotVO8Iry" name="Page-1">
+    <mxGraphModel dx="963" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pOJ0AKZQIJc5sJZaTee8-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pOJ0AKZQIJc5sJZaTee8-1" target="pOJ0AKZQIJc5sJZaTee8-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pOJ0AKZQIJc5sJZaTee8-8" value="1:N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pOJ0AKZQIJc5sJZaTee8-3">
+          <mxGeometry x="-0.2317" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pOJ0AKZQIJc5sJZaTee8-1" value="课程&lt;br&gt;t_course_goods" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pOJ0AKZQIJc5sJZaTee8-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pOJ0AKZQIJc5sJZaTee8-2" target="pOJ0AKZQIJc5sJZaTee8-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pOJ0AKZQIJc5sJZaTee8-9" value="1:N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pOJ0AKZQIJc5sJZaTee8-5">
+          <mxGeometry x="-0.1486" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pOJ0AKZQIJc5sJZaTee8-2" value="章节&lt;br&gt;t_course_chapter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pOJ0AKZQIJc5sJZaTee8-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pOJ0AKZQIJc5sJZaTee8-4" target="pOJ0AKZQIJc5sJZaTee8-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pOJ0AKZQIJc5sJZaTee8-10" value="1:1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pOJ0AKZQIJc5sJZaTee8-7">
+          <mxGeometry x="-0.2214" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pOJ0AKZQIJc5sJZaTee8-4" value="任务&lt;br&gt;t_course_task" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pOJ0AKZQIJc5sJZaTee8-6" value="任务文件t_course_task_file" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pOJ0AKZQIJc5sJZaTee8-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="380" width="180" height="76.25" as="geometry" />
+        </mxCell>
+        <mxCell id="pOJ0AKZQIJc5sJZaTee8-13" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="404.38" width="20" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pOJ0AKZQIJc5sJZaTee8-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="456.25" width="180" height="203.75" as="geometry" />
+        </mxCell>
+        <mxCell id="pOJ0AKZQIJc5sJZaTee8-15" value="执兽考试复习中你存在哪些误区？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
