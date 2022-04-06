@@ -1,1 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2022-04-06T05:51:51.174Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" version="17.2.5" etag="529cEGArmRNe4d4LhAM8" type="github"><diagram id="b_HLdHTqUjdy-KsJFH7T">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-06T06:20:00.068Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="rMw1537fKlLgKSuOLfwG" version="17.2.5" type="github">
+  <diagram id="b_HLdHTqUjdy-KsJFH7T" name="Page-1">
+    <mxGraphModel dx="2849" dy="1104" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="smrEpy4HFsg5Y20_21SR-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontStyle=1" edge="1" parent="1" source="smrEpy4HFsg5Y20_21SR-1" target="smrEpy4HFsg5Y20_21SR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="smrEpy4HFsg5Y20_21SR-4" value="正常返回" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontStyle=1" vertex="1" connectable="0" parent="smrEpy4HFsg5Y20_21SR-3">
+          <mxGeometry x="0.1684" relative="1" as="geometry">
+            <mxPoint x="-160" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="smrEpy4HFsg5Y20_21SR-6" value="f" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontStyle=1" edge="1" parent="1" source="smrEpy4HFsg5Y20_21SR-1" target="smrEpy4HFsg5Y20_21SR-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="smrEpy4HFsg5Y20_21SR-7" value="发生异常" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontStyle=1" vertex="1" connectable="0" parent="smrEpy4HFsg5Y20_21SR-6">
+          <mxGeometry x="-0.1442" y="5" relative="1" as="geometry">
+            <mxPoint x="5" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="smrEpy4HFsg5Y20_21SR-1" value="controller&lt;br style=&quot;font-size: 16px;&quot;&gt;有@RestController或@ResponseBody" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="20" y="490" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="smrEpy4HFsg5Y20_21SR-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontStyle=1" edge="1" parent="1" source="smrEpy4HFsg5Y20_21SR-2" target="smrEpy4HFsg5Y20_21SR-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="smrEpy4HFsg5Y20_21SR-2" value="&lt;br style=&quot;font-size: 16px&quot;&gt;ResponseBodyAdvice&lt;br&gt;（@ControllerAdvice）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="366" y="250" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="smrEpy4HFsg5Y20_21SR-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;fontStyle=1" edge="1" parent="1" source="smrEpy4HFsg5Y20_21SR-5" target="smrEpy4HFsg5Y20_21SR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="smrEpy4HFsg5Y20_21SR-5" value="@ExceptionHandler&lt;br&gt;（@ControllerAdvice）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="20" y="265" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="smrEpy4HFsg5Y20_21SR-9" value="HttpMessageConverter&lt;br style=&quot;font-size: 16px;&quot;&gt;MappingJackson2HttpMessageConverter" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="661" y="260" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="smrEpy4HFsg5Y20_21SR-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontStyle=1" edge="1" parent="1" source="smrEpy4HFsg5Y20_21SR-12" target="smrEpy4HFsg5Y20_21SR-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="95" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="smrEpy4HFsg5Y20_21SR-18" value="发生异常，正常抛出异常" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontStyle=1" vertex="1" connectable="0" parent="smrEpy4HFsg5Y20_21SR-14">
+          <mxGeometry x="-0.1652" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="smrEpy4HFsg5Y20_21SR-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontStyle=1" edge="1" parent="1" source="smrEpy4HFsg5Y20_21SR-12" target="smrEpy4HFsg5Y20_21SR-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="smrEpy4HFsg5Y20_21SR-21" value="发生异常，用HandlerExceptionResolver抛出异常" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontStyle=1" vertex="1" connectable="0" parent="smrEpy4HFsg5Y20_21SR-20">
+          <mxGeometry x="-0.1846" y="2" relative="1" as="geometry">
+            <mxPoint x="-2" y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="smrEpy4HFsg5Y20_21SR-12" value="filter&lt;br style=&quot;font-size: 16px;&quot;&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="20" y="40" width="240" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
